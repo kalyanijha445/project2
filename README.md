@@ -1,7 +1,5 @@
 # New prjct
 
-this prjct was created from local system
-
-this is first .
+this prjct was created from local system!!
 
 # created by kalyani jha
